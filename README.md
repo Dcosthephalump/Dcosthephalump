@@ -12,7 +12,7 @@ Outside of mathematics (in a loose order):
 - 💍 I am the husband of Jadyn Costello
 - 🍲 I love to cook
 - 📝 I am applying for a PhD
-- 📖 I study the Christian Bible
+- 📖 I study the Christian Bible and the Hebrew Bible
 - 🗺️ I am studying Greek and Hebrew
 - 🏋🏻‍♂️ I try to work out
 - ✏️ I am writing (slowly) a manual on debate
