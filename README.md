@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, my name is David (Costello) 👋
 
-<!--
-**Dcosthephalump/Dcosthephalump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior at ASU studying mathematics doing research in Greek manuscript transcription. The hope is to create a way of automatically transcribing handwritten Greek texts for analysis in the Digital Humanities.
 
-Here are some ideas to get you started:
+I come from Grand Junction, CO, ⛰️🏜️ so I have a significant interest in pursuing research for agriculture, urban development, and water rights/use in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I started my college years pursuing a degree in biophysics, but I found the mathematics and the philosophy of science and logic more interesting.
+
+My GitHub username comes from my oldest sibling and I have used it for over a decade now. Someday it will be more professional.
+
+Outside of mathematics (in a loose order):
+- 💍 I am the husband of Jadyn Costello
+- 🍲 I love to cook
+- 📝 I am applying for a PhD
+- 📖 I study the Christian Bible
+- 🗺️ I am studying Greek and Hebrew
+- 🏋🏻‍♂️ I try to work out
+- ✏️ I am writing (slowly) a manual on debate
+- 🏅 I am part of the 1890 Society
