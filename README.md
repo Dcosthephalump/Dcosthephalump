@@ -15,5 +15,3 @@ Outside of mathematics (in a loose order):
 📜 I am studying Greek and Hebrew to read manuscripts
 
 ✏️ I am writing (slowly) a manual on debate
-
-🏅 I am part of the 1890 Society
