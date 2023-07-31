@@ -9,8 +9,7 @@ I started my college years pursuing a degree in biophysics, but I found the math
 My GitHub username comes from my oldest sibling and I have used it for over a decade now. Someday it will be more professional.
 
 Outside of mathematics (in a loose order):
-- 📝 I am applying for a PhD at ASU (looking at Computer Science, Applied Mathematics, Complex Adaptive Systems Science
-- 🗺️ I am studying Greek and Hebrew to read manuscripts
-- 🏋🏻‍♂️ I try to work out
-- ✏️ I am writing (slowly) a manual on debate
-- 🏅 I am part of the 1890 Society
+📝 I am applying for a PhD at ASU (looking at Computer Science, Applied Mathematics, Complex Adaptive Systems Science
+📜 I am studying Greek and Hebrew to read manuscripts
+✏️ I am writing (slowly) a manual on debate
+🏅 I am part of the 1890 Society
