@@ -6,7 +6,7 @@ I come from Grand Junction, CO, ⛰️🏜️ so I have a significant interest i
 
 I started my college years pursuing a degree in biophysics, but I found the mathematics and the philosophy of science and logic more interesting.
 
-My GitHub username comes from my oldest sibling and I have used it for over a decade now. Someday it will be more professional.
+My GitHub username comes from my oldest sibling and I have used it for over a decade now.
 
 Outside of mathematics (in a loose order):
 
