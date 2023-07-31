@@ -10,7 +10,7 @@ My GitHub username comes from my oldest sibling and I have used it for over a de
 
 Outside of mathematics (in a loose order):
 
-📝 I am applying for a PhD at ASU (looking at Computer Science, Applied Mathematics, Complex Adaptive Systems Science
+📝 I am applying for a PhD at ASU (looking at Computer Science, Applied Mathematics, Complex Adaptive Systems Science)
 
 📜 I am studying Greek and Hebrew to read manuscripts
 
